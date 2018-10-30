@@ -1,10 +1,8 @@
 <template>
-    <div>123</div>
+    <div>swiper</div>
 </template>
-
 <script>
 export default {}
 </script>
-
 <style lang="stylus">
 </style>
